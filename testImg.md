@@ -21,7 +21,7 @@ https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo
 ## 4、GitHub中创建仓库
 
 ```
-在github中创建一个存放图片的仓库 
+在github中创建一个存放图片的仓库 注意 不能使用private类型的
 然后需要重新生成一个token
 	token生成方式 ： 
 	用户头像下拉选择settings -> 右侧菜单栏选择Developer settings -> Peronal access tokens
