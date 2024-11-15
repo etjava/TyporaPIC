@@ -61,3 +61,9 @@ https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo
 每次使用图片上传功能时 必须保证picgo是开启的 例如
 
 ![image-20230517181613793](https://cdn.jsdelivr.net/gh/etjava/TyporaPIC/img/image-20230517181613793.png)
+
+## 9、配置typora后如果提示上传失败 需要修改picgo的开启重命名或时间戳命名
+![1](https://github.com/user-attachments/assets/40be412a-db72-4af8-8eea-aa84611fac83)
+![2](https://github.com/user-attachments/assets/7ffbb39c-b2b8-4b5a-80c9-2bc025d614e8)
+![3](https://github.com/user-attachments/assets/5137f6bd-d42b-4c8f-bb62-565215bcbc89)
+
